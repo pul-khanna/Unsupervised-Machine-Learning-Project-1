@@ -1,6 +1,4 @@
-# Coursera-Unsupervised-Machine-Learning-Project-1
-
-This is a Coursera Project for the 4rd course from IBM Machine Learning Course series -
+# Unsupervised-Machine-Learning-Project-1
 
 Unsupervised Machine Learning
 
